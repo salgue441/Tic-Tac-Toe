@@ -1,11 +1,12 @@
 # Tic-Tac-Toe
-Tic Tac Toe game with a graphical interface. 
+Juego de Tic Tac Toe con interfaz gráfica.
 
-# Functionality
-The program allows you to play Tic Tac Toe. Two users take turns assigning their marker on the board. When having a winner by having three markers in line, the program announces which player won and, in the event of a tie, shows a tie. The score of the current match is saved on a .txt file. After the game anounces the event (winner or tie) it resets the board, score, and markers. 
+# Funcionalidad
+El programa te permite jugar al Tic Tac Toe. Dos usuarios se turnan para asignar su marcador en el tablero. Al tener un ganador por tener tres marcadores en línea, el programa anuncia qué jugador ganó y, en caso de empate, muestra un empate. La puntuación de la coincidencia actual se guarda en un archivo .txt. Después de que el juego anuncia el evento (ganador o empate), se reinicia el tablero, la puntuación y los marcadores.
 
-# How to run the program
-To run the program, you need to have installed Python 3 and pygame V2. After having them installed, have all the files on the same directory and run the next line on the terminal.
+# Cómo correr el programa
+Para correr el programa, necesitas tener installado Python 3 y pygame v2. Al tenerlos instalados, utilizas la siguiente línea para empezar el juego.
+
 ```
 python3 main.py
 ```
